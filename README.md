@@ -88,7 +88,7 @@ python -m unittest tests/test_main.py
 
 ## Contributing
 
-See the `CONTRIBUTING.md`` file for how to contribute to this project.
+See the [CONTRIBUTING.md](CONTRIBUTING.md) file for how to contribute to this project.
 
 ## License
 
