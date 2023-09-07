@@ -8,6 +8,7 @@
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Running Tests](#running-tests)
+- [Changelog](#changelog)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -85,6 +86,10 @@ To execute the unit tests:
 export NDJSON_DIR=/path/to/your/ndjson/directory
 python -m unittest tests/test_main.py
 ```
+
+## Changelog
+
+See the [CHANGELOG.md](CHANGELOG.md) file for the latest changes in the current version.
 
 ## Contributing
 
