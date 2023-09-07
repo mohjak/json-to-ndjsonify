@@ -37,6 +37,12 @@ Navigate to the cloned directory and run:
 pip install .
 ```
 
+Or directly via pip:
+
+```bash
+pip install json-to-ndjsonify
+```
+
 ## Usage
 
 ### Basic Usage
