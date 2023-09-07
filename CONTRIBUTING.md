@@ -65,12 +65,6 @@ Please make sure you have the following software installed:
 - Python 3.x
 - Git
 
-Run the following commands to set up your environment:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Code Standards
 
 - Follow PEP 8 for Python code.
@@ -82,7 +76,8 @@ pip install -r requirements.txt
 Before submitting a pull request, please run the unit tests to ensure that your changes have not broken any existing functionality.
 
 ```bash
-python -m unittest tests/
+export NDJSON_DIR=/path/to/your/ndjson/directory
+python -m unittest tests/test_main.py
 ```
 
 ## Submitting Changes
