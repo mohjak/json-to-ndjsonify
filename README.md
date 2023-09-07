@@ -37,6 +37,12 @@ Navigate to the cloned directory and run:
 pip install .
 ```
 
+Or directly via pip:
+
+```bash
+pip install json-to-ndjsonify
+```
+
 ## Usage
 
 ### Basic Usage
@@ -82,7 +88,7 @@ python -m unittest tests/test_main.py
 
 ## Contributing
 
-See the `CONTRIBUTING.md`` file for how to contribute to this project.
+See the [CONTRIBUTING.md](CONTRIBUTING.md) file for how to contribute to this project.
 
 ## License
 
